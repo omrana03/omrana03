@@ -1,43 +1,406 @@
-<h1 align="center">Hi 👋, I'm Om Kumar Rana</h1>
-<h3 align="center">Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning with hands-on experience in Python, Computer Vision, and AI application development. Completed a 1-month internship at Acmegrade on Data Science. Completed a 4-month internship at iStudio Technologies, where I developed an AI Face Recognition System using Python and OpenCV. Intern at HNNOIX India pvt.ltd, where I am working on live projects of the company. Passionate about developing AI-driven solutions and seeking opportunities as a python developer and AI & ML Engineer.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omrana03&label=Profile%20views&color=0e75b6&style=flat" alt="omrana03" /> </p>
+# 👋 Hi, I'm Om Kumar Rana
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omrana03" alt="omrana03" /></a> </p>
+### 🤖 AI & Machine Learning | Python Developer | Computer Science Undergraduate
 
-- 🔭 I worked on the AI-Face Recognition System [AI-Face Recognition System](https://github.com/omrana03/AI-Face-Recognition-System.git)
-
-- 🌱 I’m currently learning **Artificial Intelligence(LLM,NLP,) Machine Learning(Decision tress, classification, regression, random forest etc.) and Web Development.**
-
-- I build my personal project RANA HOUSE RENT MANAGEMENT SYSTEM [RANA HOUSE RENT MANAGEMENT SYSTEM](https://rana-house-a-rent-management-system.onrender.com)
-
-- I made a website for my company OM ENGGINEERS [OM ENGINEERS](https://om-engineers.onrender.com)
-
-- 👨‍💻 All of my projects are available at [https://dashboard.render.com/](https://dashboard.render.com/)
-
-- 👨‍💻 All of my projects are available at [https://vercel.com/omrana03s-projects](https://vercel.com/omrana03s-projects)
-
-- 💬 Ask me about **Python, LLM, NLP and Web Development**
-
-- 📫 How to reach me **ranaom1823@gmail.com**
-
-- 📄 Know about my experiences [https://www.overleaf.com/project/6a0eceee34a6cf016bb1c330](https://www.overleaf.com/project/6a0eceee34a6cf016bb1c330)
-
-- ⚡ Fun fact **I am a Guitarist**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/om-kumar-rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om-kumar-rana" height="30" width="40" /></a>
-<a href="https://fb.com/rana om" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rana om" height="30" width="40" /></a>
-<a href="https://instagram.com/om_rana_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="om_rana_03" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/omrana03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omrana03" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/omrana03">
+    <img src="https://img.shields.io/github/followers/omrana03?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" />
+  </a>
+  <a href="https://github.com/omrana03?tab=repositories">
+    <img src="https://img.shields.io/github/stars/omrana03?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=yellow" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=omrana03&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://linkedin.com/in/om-kumar-rana">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ranaom1823@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/omrana03">
+    <img src="https://img.shields.io/badge/GitHub-omrana03-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omrana03&show_icons=true&locale=en&layout=compact" alt="omrana03" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omrana03&show_icons=true&locale=en" alt="omrana03" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omrana03&" alt="omrana03" /></p>
+## 🧑‍💻 About Me
+
+```text
+🎓 B.Tech CSE student specializing in Artificial Intelligence & Machine Learning
+
+🤖 Interested in AI, Machine Learning, LLMs, NLP & Computer Vision
+
+🐍 Passionate about Python development and AI-powered applications
+
+💼 AI Intern at HNNOIX India Pvt. Ltd.
+   Working on live company projects
+
+👁️ Developed an AI Face Recognition System using Python & OpenCV
+
+📊 Completed Data Science training at Acmegrade
+
+🌐 Interested in building full-stack applications and AI-integrated systems
+
+🎸 Fun fact: I'm a Guitarist
+```
+
+---
+
+# 🚀 What I'm Working On
+
+<div align="center">
+
+| Area                       | Current Focus                               |
+| -------------------------- | ------------------------------------------- |
+| 🤖 Artificial Intelligence | LLMs • NLP • Generative AI                  |
+| 🧠 Machine Learning        | Classification • Regression • Random Forest |
+| 👁️ Computer Vision        | OpenCV • Face Recognition                   |
+| 🐍 Python                  | AI/ML applications • Automation             |
+| 🌐 Web Development         | React • Node.js • REST APIs                 |
+| 📡 5G / Networking         | Open5GS • OAI • Network Orchestration       |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omrana03&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omrana03&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=omrana03&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omrana03&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+# 🟩 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/0e75b6/omrana03" alt="Om Kumar Rana GitHub Contribution Calendar" width="100%" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=omrana03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🤖 AI Face Recognition System</h3>
+
+<div align="center">
+
+<a href="https://github.com/omrana03/AI-Face-Recognition-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=omrana03&repo=AI-Face-Recognition-System&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+<p align="center">
+AI-powered face recognition application built with Python and Computer Vision technologies.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🏠 RANA HOUSE</h3>
+
+<div align="center">
+
+<a href="https://github.com/omrana03/RANA-HOUSE-Rent-Management-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=omrana03&repo=RANA-HOUSE-Rent-Management-System&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+<p align="center">
+Full-stack rent and tenant management system with authentication, receipts, reminders and payment tracking.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">📡 5G Network Orchestrator</h3>
+
+<p align="center">
+Web-based network orchestration and monitoring project involving 5G network components and AI-native network data flows.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/5G-Networking-0e75b6?style=flat-square"/>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">⚡ OM ENGINEERS</h3>
+
+<p align="center">
+Professional business website developed for OM ENGINEERS with service presentation and customer inquiry functionality.
+</p>
+
+<p align="center">
+
+<a href="https://om-engineers.onrender.com">
+<img src="https://img.shields.io/badge/Live%20Website-Visit-success?style=flat-square&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧠 AI / ML Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,pandas&perline=6" />
+
+</div>
+
+---
+
+# 💻 Development Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css,react,nodejs,vite,tailwind,mysql,sqlite,git,github,linux&perline=8" />
+
+</div>
+
+---
+
+# 🛠️ Technologies & Tools
+
+### Programming
+
+`Python` `Java` `C` `C++` `JavaScript`
+
+### Artificial Intelligence
+
+`Machine Learning` `Deep Learning` `LLMs` `NLP` `Computer Vision`
+
+### Frameworks & Libraries
+
+`TensorFlow` `PyTorch` `Scikit-learn` `OpenCV` `Pandas`
+
+### Web Development
+
+`HTML` `CSS` `JavaScript` `React` `Node.js` `Vite` `Tailwind CSS`
+
+### Databases
+
+`MySQL` `SQLite`
+
+### Tools & Platforms
+
+`Git` `GitHub` `Linux` `VS Code` `Render`
+
+### Networking / 5G
+
+`Open5GS` `OAI` `Duranta` `5G Network Orchestration`
+
+---
+
+# 📌 Experience
+
+### 💼 HNNOIX India Pvt. Ltd.
+
+**AI / Technology Intern**
+
+Working on live company projects involving software development, AI/ML technologies and network-oriented applications.
+
+---
+
+### 🤖 iStudio Technologies
+
+**AI Intern**
+
+Developed an AI Face Recognition System using Python, OpenCV and machine-learning techniques.
+
+---
+
+### 📊 Acmegrade
+
+**Data Science Intern / Trainee**
+
+Worked on data analysis, preprocessing, exploratory data analysis and machine-learning fundamentals.
+
+---
+
+# 📚 Currently Learning
+
+```text
+Artificial Intelligence
+├── Large Language Models
+├── Natural Language Processing
+├── Generative AI
+└── AI Application Development
+
+Machine Learning
+├── Classification
+├── Regression
+├── Decision Trees
+├── Random Forest
+└── Model Evaluation
+
+Development
+├── Python
+├── React
+├── Node.js
+├── REST APIs
+└── Full-Stack Development
+
+Networking
+├── 5G Architecture
+├── Open5GS
+├── OAI
+└── Network Orchestration
+```
+
+---
+
+# 📊 My GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/omrana03?tab=repositories">
+<img src="https://img.shields.io/badge/📦%20Repositories-View%20Projects-181717?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/omrana03?tab=stars">
+<img src="https://img.shields.io/badge/⭐%20Stars-My%20Starred%20Projects-yellow?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/omrana03?tab=followers">
+<img src="https://img.shields.io/badge/👥%20Followers-Connect-0e75b6?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+# 💬 Ask Me About
+
+```text
+🐍 Python
+🤖 Artificial Intelligence
+🧠 Machine Learning
+💬 LLMs & NLP
+👁️ Computer Vision
+🌐 Web Development
+📡 5G / Network Orchestration
+🗄️ SQL & Databases
+```
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/om-kumar-rana">
+<img src="https://img.shields.io/badge/LinkedIn-Om%20Kumar%20Rana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:ranaom1823@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-ranaom1823%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/omrana03">
+<img src="https://img.shields.io/badge/LeetCode-omrana03-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://instagram.com/om_rana_03">
+<img src="https://img.shields.io/badge/Instagram-om__rana__03-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Build. Learn. Experiment. Repeat.
+
+**AI • Machine Learning • Python • Computer Vision • Web Development**
+
+<br>
+
+⭐ **If you find my projects interesting, consider giving them a star!**
+
+</div>
